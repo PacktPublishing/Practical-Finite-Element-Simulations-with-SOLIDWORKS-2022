@@ -1,7 +1,3 @@
-# Practical-Finite-Element-Simulations-with-SOLIDWORKS-2022
-Practical Finite Element Simulations with SOLIDWORKS 2022, published by Packt.
-
-
 # Practical Finite Element Simulations with SOLIDWORKS 2022
 
 <a href="https://www.packtpub.com/product/practical-finite-element-simulations-with-solidworks-2022/9781801819923"><img src="https://static.packt-cdn.com/products/9781801819923/cover/smaller" alt="Practical Finite Element Simulations with SOLIDWORKS 2022" height="256px" align="right"></a>
