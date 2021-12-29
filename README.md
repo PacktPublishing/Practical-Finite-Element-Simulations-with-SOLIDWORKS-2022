@@ -37,7 +37,7 @@ end
 **Following is what you need for this book:**
 This book is for engineers and analysts working in the field of aerospace, mechanical, civil, and mechatronics engineering who are looking to explore the simulation capabilities of SOLIDWORKS. Basic knowledge of modeling in SOLIDWORKS or any CAD software is assumed.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-13).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-10).
 ### Software and Hardware List
 | Chapter | Software required | OS required |
 | -------- | ------------------------------------ | ----------------------------------- |
