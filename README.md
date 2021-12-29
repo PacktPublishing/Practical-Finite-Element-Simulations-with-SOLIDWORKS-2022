@@ -33,9 +33,9 @@ With the following software and hardware list you can run all code files present
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781801819923_ColorImages.pdf).
 
 ### Related products
-*  [[Packt]](https://www.packtpub.com/product/practical-autodesk-autocad-2021-and-autocad-lt-2021/9781789809152) [[Amazon]](https://www.amazon.com/Practical-Autodesk-AutoCAD-2021-no-nonsense-ebook/dp/B082PYHGYM)
+* Practical Autodesk AutoCAD 2021 and AutoCAD LT 2021 [[Packt]](https://www.packtpub.com/product/practical-autodesk-autocad-2021-and-autocad-lt-2021/9781789809152) [[Amazon]](https://www.amazon.com/Practical-Autodesk-AutoCAD-2021-no-nonsense-ebook/dp/B082PYHGYM)
 
-*  [[Packt]](https://www.packtpub.com/product/learn-solidworks-2020/9781789804102) [[Amazon]](https://www.amazon.com/Learn-SOLIDWORKS-2020-hands-accomplished/dp/1789804108)
+* Learn SOLIDWORKS 2022 [[Packt]](https://www.packtpub.com/product/learn-solidworks-2020/9781789804102) [[Amazon]](https://www.amazon.com/Learn-SOLIDWORKS-2020-hands-accomplished/dp/1789804108)
 
 
 ## Get to Know the Author
