@@ -20,20 +20,6 @@ Acquire practical knowledge of plane elements to reduce computational overhead
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/Practical-Finite-Element-Simulations-SOLIDWORKS/dp/1801819920) today!
 
-<a href="https://www.packtpub.com/product/practical-finite-element-simulations-with-solidworks-2022/9781801819923"><img src="https://static.packt-cdn.com/products/9781801819923/cover/smaller" 
-alt="Practical Finite Element Simulations with SOLIDWORKS 2022" border="5" /></a>
-
-## Instructions and Navigations
-All of the code is organized into folders. For example, Chapter02.
-
-The code will look like the following:
-```
-flowchart LR
-subgraph Dolor
-Lorem --> Ipsum
-end
-```
-
 **Following is what you need for this book:**
 This book is for engineers and analysts working in the field of aerospace, mechanical, civil, and mechatronics engineering who are looking to explore the simulation capabilities of SOLIDWORKS. Basic knowledge of modeling in SOLIDWORKS or any CAD software is assumed.
 
@@ -55,16 +41,3 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ## Get to Know the Author
 **Khameel B. Mustapha**
 Khameel B. Mustapha obtained his doctorate from Nanyang Technological University (Singapore) with a focus on the development of computational methods in the area of microcontinuum theory. He has years of experience working on a variety of finite element analysis platforms. Khameel has given training to thousands of students and participants on the applications of finite element simulations to the analysis, design and performance assessments of engineering components. His primary research interest gears towards mechanics and modelling of microscale structures, but his wider interest encompasses computational mechanics, engineering teaching philosophy and mechanics of advanced systems (functionally graded materials, sandwich composites, subcellular biological structures, energy materials, additively manufactured components). He is currently an Associate Professor with the University of Nottingham Malaysia Campus, and has previously held a faculty position with the Swinburne University of Technology (Sarawak). He is a Fellow of the Higher Education Academy (FHEA).
-
-
-
-****
-0
-
-
-## Other books by the author
-[]()
-
-[]()
-
-
