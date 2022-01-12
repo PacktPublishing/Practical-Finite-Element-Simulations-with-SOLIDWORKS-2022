@@ -10,13 +10,13 @@ This is the code repository for [Practical Finite Element Simulations with SOLID
 SOLIDWORKS is a dominant computer-aided design (CAD) software for the 3D modeling, designing, and analysis of components. This book helps you get to grips with SOLIDWORKS Simulation, which is a remarkable and integral part of SOLIDWORKS predominantly deployed for advanced product performance assessment and virtual prototyping.
 
 This book covers the following exciting features:
-Run static simulations with truss, beam, shell, and solid element types
-Demonstrate static simulations with mixed elements
-Analyze components with point loads, torsional loads, transverse distributed loads, surface pressure loads, and centrifugal speed
-Explore the analysis of components with isotropic and composite materials
-Analyze members under thermo-mechanical and cyclic loads
-Discover how to minimize simulation errors and perform convergence analysis
-Acquire practical knowledge of plane elements to reduce computational overhead
+* Run static simulations with truss, beam, shell, and solid element types
+* Demonstrate static simulations with mixed elements
+* Analyze components with point loads, torsional loads, transverse distributed loads, surface pressure loads, and centrifugal speed
+* Explore the analysis of components with isotropic and composite materials
+* Analyze members under thermo-mechanical and cyclic loads
+* Discover how to minimize simulation errors and perform convergence analysis
+* Acquire practical knowledge of plane elements to reduce computational overhead
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/Practical-Finite-Element-Simulations-SOLIDWORKS/dp/1801819920) today!
 
