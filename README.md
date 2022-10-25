@@ -41,3 +41,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ## Get to Know the Author
 **Khameel B. Mustapha**
 Khameel B. Mustapha obtained his doctorate from Nanyang Technological University (Singapore) with a focus on the development of computational methods in the area of microcontinuum theory. He has years of experience working on a variety of finite element analysis platforms. Khameel has given training to thousands of students and participants on the applications of finite element simulations to the analysis, design and performance assessments of engineering components. His primary research interest gears towards mechanics and modelling of microscale structures, but his wider interest encompasses computational mechanics, engineering teaching philosophy and mechanics of advanced systems (functionally graded materials, sandwich composites, subcellular biological structures, energy materials, additively manufactured components). He is currently an Associate Professor with the University of Nottingham Malaysia Campus, and has previously held a faculty position with the Swinburne University of Technology (Sarawak). He is a Fellow of the Higher Education Academy (FHEA).
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781801819923">https://packt.link/free-ebook/9781801819923 </a> </p>
