@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781801819923)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # Practical Finite Element Simulations with SOLIDWORKS 2022
 
 <a href="https://www.packtpub.com/product/practical-finite-element-simulations-with-solidworks-2022/9781801819923"><img src="https://static.packt-cdn.com/products/9781801819923/cover/smaller" alt="Practical Finite Element Simulations with SOLIDWORKS 2022" height="256px" align="right"></a>
